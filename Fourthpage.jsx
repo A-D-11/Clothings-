@@ -1,6 +1,7 @@
 import React from 'react'
 
 // This is the page for Womens Clothings
+// If you delete the svg tag then the page will not show any thing it will be blanck
 
 export default function Fourthpage() {
   return (
