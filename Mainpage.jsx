@@ -2,6 +2,7 @@ import React from 'react';
 // import image from './images/image-1';
 
 // This is the page for the Mens Jeans 
+// If you delete the svg file than the app will show nothing it will be blanck 
 
 export default function Mainpage() {
   return (
